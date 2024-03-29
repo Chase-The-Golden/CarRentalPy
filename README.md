@@ -1,6 +1,6 @@
 # CarRentalPy
 
-Course end project regarding programming in Python. The original module, *rentalmodule.py*, is made in accordance to the given instructions in the most accurate approach possible. At this time, I intend to make an improved module titled *rentalmodule2.py* with a more concise & readable code.
+Course end project regarding programming in Python. The original module, *rentalmodule.py*, is made in accordance to the given instructions in the most accurate approach possible. At this time, I made an improved module titled *rentalmodule2.py* with a more concise & readable code.
 
 ## The Project
 
